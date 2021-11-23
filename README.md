@@ -14,7 +14,16 @@
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-   2.5.1.	Implemente el circuito que se presenta en la figura 2.1.
+   Implemente el circuito que se presenta en la figura 2.1
+   
+   ![image](https://user-images.githubusercontent.com/93899720/142968568-fadb563e-5618-4252-b913-20d265af3b52.png)
+   
+   
+   
+    Mida cada una de las corrientes de malla y anote los resultados en la tabla 2.1.
+
+    Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en     la tabla 2.1.
+
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
