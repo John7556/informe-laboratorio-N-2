@@ -10,6 +10,7 @@
 
 2. MARCO TEÓRICO 
 
+![Mapa conceptual lab 2](https://user-images.githubusercontent.com/93899720/142967874-94065b5a-46ab-4622-81b2-0f8080ca52e0.jpg)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
