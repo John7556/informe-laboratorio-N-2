@@ -14,6 +14,8 @@
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+   2.5.1.	Implemente el circuito que se presenta en la figura 2.1.
+
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 5. VIDEO
