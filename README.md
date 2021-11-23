@@ -57,7 +57,10 @@ Se transforma todas las unidades en ohmios.
 ![image](https://user-images.githubusercontent.com/93899720/142971721-87b1d0c4-cdaa-47d6-9248-c9bdfffd7568.png)
 
 
-Teniendo las ecuaciones se realiza un sistema de ecuaciones para obtener los resultados de cada intensidad.
+Teniendo las ecuaciones se realiza un sistema de ecuaciones para obtener los resultados de cada intensidad utilizando la siguiente calculadora en linea.
+
+
+![image](https://user-images.githubusercontent.com/93899720/142974408-02d15130-8379-4884-8c2c-a87b6d7e5d1c.png)
 
 
 ![image](https://user-images.githubusercontent.com/93899720/142971764-343b2d07-b79f-4392-868d-5fe7530e2a19.png)
