@@ -75,6 +75,7 @@ Se tabulan los resultados.
 ![image](https://user-images.githubusercontent.com/93899720/142971837-442f2f73-54da-4999-bdbf-832c3d03f837.png)
 
 
+![image](https://user-images.githubusercontent.com/93899720/142982576-8b52b901-a5af-4848-abde-dddb2a618728.png)
 
 5. VIDEO
 
