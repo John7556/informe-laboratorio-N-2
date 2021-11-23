@@ -78,6 +78,9 @@ Se tabulan los resultados.
 
 5. VIDEO
 
+https://www.youtube.com/watch?v=nNt0jgiM88w
+
+
 6. CONCLUSIONES
 
    Los valores teóricos no serán igual a los medidos sin embargo  se asemejarán. En  la solución del circuito por medio de LVK se llegará a una misma respuesta con un desfase de      error  mínimo. La variación o el margen de error tiene una relación directa con los dispositivos de medición y elementos del circuito. 
