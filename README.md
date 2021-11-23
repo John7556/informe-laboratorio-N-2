@@ -45,19 +45,19 @@ Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún ele
 ![image](https://user-images.githubusercontent.com/93899720/142971634-b157c20a-352a-4ff4-92c2-00f5789f5b47.png)
 
 
-Empezamos identificando el sentido de la corriente que en este caso es en sentido horario, los signos se colocan deacuerdo a como salga la intensidad de los objetos comprendidos en la malla.
+Empezamos identificando el sentido de la corriente que en este caso es en sentido horario, los signos se colocan de acuerdo a como salga la intensidad de los objetos comprendidos en la malla.
 
 
 ![image](https://user-images.githubusercontent.com/93899720/142971679-1d1de94b-eb80-4a8c-899c-700839dc353a.png)
 
 
-se transforma todas las unidades en ohmios.
+Se transforma todas las unidades en ohmios.
 
 
 ![image](https://user-images.githubusercontent.com/93899720/142971721-87b1d0c4-cdaa-47d6-9248-c9bdfffd7568.png)
 
 
-teniendo las ecuaciones se realiza un sistema de ecuaciones para obtener los resultados de cada intensidad.
+Teniendo las ecuaciones se realiza un sistema de ecuaciones para obtener los resultados de cada intensidad.
 
 
 ![image](https://user-images.githubusercontent.com/93899720/142971764-343b2d07-b79f-4392-868d-5fe7530e2a19.png)
@@ -66,7 +66,7 @@ teniendo las ecuaciones se realiza un sistema de ecuaciones para obtener los res
 ![image](https://user-images.githubusercontent.com/93899720/142971837-442f2f73-54da-4999-bdbf-832c3d03f837.png)
 
 
-se tabulan los resultados.
+Se tabulan los resultados.
 
 
 5. VIDEO
