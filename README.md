@@ -63,6 +63,9 @@ Teniendo las ecuaciones se realiza un sistema de ecuaciones para obtener los res
 ![image](https://user-images.githubusercontent.com/93899720/142974408-02d15130-8379-4884-8c2c-a87b6d7e5d1c.png)
 
 
+![image](https://user-images.githubusercontent.com/93899720/142974691-9ccf3858-62c5-4139-9b3b-8448ec57a938.png)
+
+
 ![image](https://user-images.githubusercontent.com/93899720/142971764-343b2d07-b79f-4392-868d-5fe7530e2a19.png)
 
 
