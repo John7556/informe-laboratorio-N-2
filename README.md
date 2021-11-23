@@ -16,11 +16,11 @@
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
-3.1 REQUISITOS PREVIOS.
+   3.1 REQUISITOS PREVIOS.
 
 Se requiere el análisis analítico del circuito mostrado en la figura 2.1., mediante la técnica del análisis de mallas. El valor obtenido de cada corriente de malla anótelo en la tabla 2.1.
 
-3.2 INFORMACIÓN GENERAL
+   3.2 INFORMACIÓN GENERAL
 
 El análisis de mallas es una técnica que hace uso de la LVK para expresar voltajes en función de corrientes.
 
